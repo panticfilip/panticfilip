@@ -10,7 +10,7 @@
 |---|---|---|
 | [NeuralNetworkLib](https://github.com/panticfilip/NeuralNetworkLib) | Neural network from scratch — forward/backprop, regression & classification | C# |
 | [SymCalc](https://github.com/panticfilip/SymCalc) | Computer Algebra System — symbolic differentiation, expression parsing, function plotting, Lagrange/Chebyshev interpolation | C# |
-| [Autonomous Robot](https://github.com/panticfilip/autonomus-robot) | Omnidirectional robot (Raspberry Pi + camera) with Q-learning navigation | Python |
+| [Autonomous Robot](https://github.com/panticfilip/autonomous-robot) | Omnidirectional robot (Raspberry Pi + camera) with Q-learning navigation | Python |
 | Robotic Arm *(in progress)* | CNN-based object detection + inverse kinematics for physical manipulation | Python |
 
 ---
