@@ -1,6 +1,6 @@
 # Filip Pantić
 
-18, Novi Sad, Serbia · Mathematics & CS @ Gymnasium "Jovan Jovanović Zmaj"
+18, Novi Sad, Serbia · Mathematics & CS
 
 ---
 
